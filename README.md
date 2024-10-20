@@ -294,9 +294,7 @@ Android Studioにて、Link-OS SDKが利用できるようにします。
    ![1729416973681](image/note/1729416973681.png)
 
    <br>
-3. sdk_welcome.html を選択することにより、SDK の解説を確認することができま
-
-す。
+3. sdk_welcome.html を選択することにより、SDK の解説を確認することができます。
 
     ![1729417068123](image/note/1729417068123.png)
 
