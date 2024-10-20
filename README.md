@@ -245,15 +245,15 @@ Android Studioにて、Link-OS SDKが利用できるようにします。
 8. 同gradle.buildの**android{}**内に下記を追記する。
 
    <pre>
-        packaging {
-        resources{
-            excludes += "META-INF/DEPENDENCIES"
-            excludes += "META-INF/LICENSE.txt"
-            excludes += "META-INF/NOTICE.txt"
-            excludes += "META-INF/NOTICE"
-            excludes += "META-INF/LICENSE"
-        }
-    }
+   packaging {
+      resources{
+         excludes += "META-INF/DEPENDENCIES"
+         excludes += "META-INF/LICENSE.txt"
+         excludes += "META-INF/NOTICE.txt"
+         excludes += "META-INF/NOTICE"
+         excludes += "META-INF/LICENSE"
+      }
+   }
     </pre>
 
    <br>
